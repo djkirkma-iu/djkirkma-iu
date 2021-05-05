@@ -6,4 +6,6 @@ Dataset: https://www.kaggle.com/zynicide/wine-reviews
 
 Video: https://youtu.be/l5UxOK6Tt2g
 
+Live Version: https://djkirkma-iu.github.io/djkirkma-iu/
+
 Hope you enjoy my work!
